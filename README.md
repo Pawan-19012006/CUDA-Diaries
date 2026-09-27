@@ -1,8 +1,8 @@
-# CUDA Learning ⚡
+# CUDA Learning 
 
 A hands-on journey into **CUDA C/C++ and GPU programming**, focused on understanding how NVIDIA GPUs execute parallel workloads and how GPU computation can be optimized for real-world AI and computer vision systems.
 
-## 🎯 Goals
+## Goals
 
 - Understand GPU architecture and CUDA's execution model
 - Learn threads, blocks, grids, and warps
