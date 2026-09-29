@@ -12,5 +12,4 @@ A hands-on journey into **CUDA C/C++ and GPU programming**, focused on understan
 - Explore CUDA streams and asynchronous execution
 - Profile and optimize GPU workloads
 - Understand CUDA integration with PyTorch
-- Explore GPU inference and TensorRT
 - Build the foundation required for deploying AI/CV workloads on NVIDIA edge hardware
