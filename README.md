@@ -13,3 +13,4 @@ A hands-on journey into **CUDA C/C++ and GPU programming**, focused on understan
 - Profile and optimize GPU workloads
 - Understand CUDA integration with PyTorch
 - Build the foundation required for deploying AI/CV workloads on NVIDIA edge hardware
+- Integrate with the Drone Computer Vision to optimize the workflow
